@@ -37,7 +37,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 
-	systemdDbus "github.com/coreos/go-systemd/v22/dbus"
+	systemdDbus "github.com/coreos/go-systemd/dbus"
 )
 
 const (
